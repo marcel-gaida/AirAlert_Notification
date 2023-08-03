@@ -1,4 +1,3 @@
-[![AQI Alert Checker and CSV log](https://github.com/marcel-gaida/AirAlert/actions/workflows/main.yml/badge.svg)](https://github.com/marcel-gaida/AirAlert/actions/workflows/main.yml)
 
 # Air Alert - AQI Retrieval and Push notification
 
