@@ -32,6 +32,7 @@ humidity = data['data']['current']['weather']['hu']
 wind_speed = data['data']['current']['weather']['ws']
 
 # Get current date and time for New York City
+# Adjust the timezone to fit the city you are retriving data about. 
 tz = pytz.timezone('America/New_York')
 now = datetime.now(tz)
 date = now.strftime("%m/%d/%Y")
